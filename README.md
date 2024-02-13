@@ -1,6 +1,6 @@
 # Deber_2_Modelos
 # Descripción del dataset personalizado:
-Se eliminaron los vacios, se cambio el nombre de la columna "Lable" por "Malicioso" y se cambio los valores "non-malicius" por 0 y "malicious" por 1
+Se eliminaron los vacios, se cambio el nombre de la columna "Lable" por "Malicioso?" y se cambio los valores "non-malicius" por 0 y "malicious" por 1
 # Descripcion del codigo
 
 -Ajustamos el modelo PCA a los datos de entrada y transformamos el conjunto de datos original en el nuevo espacio de características de dos dimensiones.
